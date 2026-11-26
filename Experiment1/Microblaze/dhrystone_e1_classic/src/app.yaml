@@ -1,0 +1,4 @@
+domain_path: E:/Clases/TTU_Fall_2026/computer_architecture/Homeworks/Projects/exp1_classic_all_integer/export/exp1_classic_all_integer/sw/standalone_microblaze_0
+app_src_dir: E:\Vivado\2026.1\Vitis\data\embeddedsw\lib\sw_apps\dhrystone
+template: dhrystone
+lang: c
