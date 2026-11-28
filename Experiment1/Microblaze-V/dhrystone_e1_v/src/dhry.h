@@ -445,7 +445,7 @@ typedef enum  {Ident_1, Ident_2, Ident_3, Ident_4, Ident_5}
 #if !defined (__MICROBLAZE__) && !defined (__riscv)
 #define ITERATIONS				16000000
 #else
-#define ITERATIONS				160000
+#define ITERATIONS				1600000
 #endif
 #define Mic_secs_Per_Second		1000000.0
 #define Null 					0
